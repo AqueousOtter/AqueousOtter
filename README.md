@@ -5,8 +5,8 @@ I enjoy building web and desktop projects in my spare time. Most of my knowledge
 
 Skills: Java / Spring / JavaScript / HTML / CSS / C++
 
-    * I’m currently learning Java Spring
-    * Learning React Starting April 2022
+    * I’m currently learning Java Spring and React
+    
     
    
 📫  Reach me: dustin.brown.k@gmail.com

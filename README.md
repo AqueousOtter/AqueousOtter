@@ -1,9 +1,9 @@
 Hello, my name is Dustin 
 
 
-I enjoy building web and desktop projects in my spare time. Most of my knowledge comes from desktop programming and backend , I am currently working towards becoming a Full Stack Developer. I'm currently learning Java Spring/Spring Boot through online courses.I am still learning Spring/Spring Boot, soon to be adding React to some projects.
+I enjoy building web and desktop projects. Most of my knowledge comes from desktop programming and backend, currently working towards becoming a Full Stack Developer. I'm currently building my Spring Boot & React skills. 
 
-Skills: Java / Spring / JavaScript / HTML / CSS / C++
+Skills: Java / Spring / JavaScript / React / HTML / CSS / C++
 
     * I’m currently learning Java Spring and React
     
